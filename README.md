@@ -9,3 +9,5 @@
 ![hinh6](hinh6.jpg)
 ![hinh7](hinh7.jpg)
 ![hinh8](hinh8.jpg)
+![hinh9](hinh9.jpg)
+![hinh10](hinh10.jpg)
