@@ -11,3 +11,5 @@
 ![hinh8](hinh8.jpg)
 ![hinh9](hinh9.jpg)
 ![hinh10](hinh10.jpg)
+![hinh11](hinh11.jpg)
+![hinh12](hinh12.jpg)
